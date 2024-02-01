@@ -1,5 +1,5 @@
 # numpy helps us get the sudoku in a grid.
-#import numpy as np
+import numpy as np
 
 #Creating a grid for the sudoku puzzle, blank space represented by zero
 sudoku_puzzle = [[8,4,0,2,0,0,7,6,9], 
